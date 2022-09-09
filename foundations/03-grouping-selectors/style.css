@@ -1,13 +1,13 @@
-.blackbackground {
+.bear {
     background-color: black;
     color: white;
 }
 
-.yellowbackground {
+.corn {
     background-color: yellow;
 }
 
-.blackbackground, .yellowbackground {
+.bear, .corn {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
